@@ -7,11 +7,11 @@ Ultilizar o desafio para absover todo o conteúdo absorvido.
 
 ## Amazon Lambda 
  
-É um serviço servelles que pode ser utilizado em qualquer linguagem, não é para processar grandes coisa, são pequenas requisições e pequenos precessos.
+É um serviço serverless que pode ser utilizado em qualquer linguagem, não é para processar grandes coisa, são pequenas requisições e pequenos precessos.
 
 ## Amazon ECS e EKS
 
-São os orquestradores de conteiner da AWS, o EKS é baseado na estrutura kubernetes,tem uma visão mais amigavel e é muito mais utilizado hoje no mercado.
+São os orquestradores de container da AWS, o EKS é baseado na estrutura kubernetes,tem uma visão mais amigavel e é muito mais utilizado hoje no mercado.
 
 ## Amazon SNS e SQS 
 
