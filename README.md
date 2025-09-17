@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Ultilizar o desafio para absover todo o conteúdo absorvido.
+Ultilizar o desafio para absover todo o conteúdo ensinado.
 
 
 ## Amazon Lambda 
